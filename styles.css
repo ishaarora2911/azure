@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+
+.max-width {
+    max-width: 1300px;
+    padding: 0 80px;
+    margin: auto;
+
+}
+
+.navbar {
+    position: fixed;
+    width: 100%;
+    padding: 15px 0;
+    background: greenyellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar .max-width {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.navbar .logo a {
+    color: rgb(12, 58, 95);
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.navbar .menu li {
+    list-style: none;
+    display: inline-block;
+}
+
+.navbar .menu li a {
+    color: rgb(12, 58, 95);
+    font-size: "20px";
+    font-weight: 50;
+    margin-left: 30px;
+
+}
+
+.home {
+    display: flex;
+    background-color: rgb(238, 255, 205);
+    height: 100h;
+    min-height: 500px;
+    color: navy;
+}
+
+.home, home-content .text-1,
+text-2 {
+    font-size: 60px;
+    font-weight: 200;
+    margin-left: 3px;
+
+}
+/* About */
+
+#about .col-right {
+    text-align: center;
+    padding: 30px;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #5f6348;
+    font-size: large;
+}
+#about .res{
+    color:rgb(24, 53, 4);
+    background-color: #075a182c;
+    
+    
+}
+
+/* End About */
+
+
+
+
+    
+/* contact Section */
+#mycontact .contact-item {
+	width: 70%;
+	padding: 35px;
+	text-align: center;
+	border-radius: 20px;
+	padding: 40px;
+	margin: 35px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+	
+}
+#mycontact .contact-item:hover {
+	box-shadow: 0px 0px 5px 0 #740a312c;
+}
+#mycontact .icon {
+	width: 80px;
+	margin: 0 auto;
+	margin-bottom: 15px;
+}
+#mycontact .contact-info h1 {
+	font-size: 3rem;
+	font-weight: 4050;
+	margin-bottom: 5px;
+}
+#mycontact .contact-info h2 {
+	font-size: 1.5rem;
+	line-height: 3rem;
+	font-weight: 4050;
+}
+
+/*End contact Section */
+
+/*skills section*/
+#skills h2 {
+    font-size: 50px;
+    font-weight: 500;
+    background-color: aqua;
+}
+
+/*End skills Section */
+
+
+/* Footer */
+#footer {
+	background-image: linear-gradient(60deg, #333c29 0%, #5f6348 100%);
+}
+
+#footer .footer {
+	min-height: 200px;
+	
+	padding-top: 40px;
+	padding-bottom: 20px;
+}
+#footer h1 {
+	color: yellow;
+	font-weight: 500;
+	font-size: 50px;
+	letter-spacing: 0.1rem;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#footer .social-icon {
+	
+	margin-bottom: 20px;
+  
+}
+#footer .social-item {
+	height: 50px;
+	width: 50px;
+	margin: 0 5px;    
+}
+/* End Footer */
