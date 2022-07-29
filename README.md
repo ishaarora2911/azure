@@ -20,8 +20,10 @@ I have made a portfolio where with the use of HTML and CSS . As we know today is
 Static Web App
 
 #DEMO LINK--
+https://nice-pebble-0b89ef110.1.azurestaticapps.net/#home
 
-https://witty-plant-0ca58f710.1.azurestaticapps.net
+Vedio LINK--
+https://youtu.be/Vo3OgokPiik
 
 #Project Images:
 HOME PAGE:
@@ -34,8 +36,7 @@ CONTACT PAGE:
 SKILLS:
 <img width="950" alt="image" src="https://user-images.githubusercontent.com/81138267/180604384-dea7301c-f202-4294-8db1-047b72560f0f.png">
 #Azure Services:
-<img width="956" alt="image" src="https://user-images.githubusercontent.com/81138267/181795609-1a4d3a12-35dc-4f5d-9c65-41510cc7135b.png">
-
+<img width="957" alt="image" src="https://user-images.githubusercontent.com/81138267/181799384-f6d7561a-1fb1-440f-a5c0-37750930adca.png">
 
 
 
