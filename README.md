@@ -34,7 +34,8 @@ CONTACT PAGE:
 SKILLS:
 <img width="950" alt="image" src="https://user-images.githubusercontent.com/81138267/180604384-dea7301c-f202-4294-8db1-047b72560f0f.png">
 #Azure Services:
-<img width="958" alt="image" src="https://user-images.githubusercontent.com/81138267/181792862-cec09892-c143-418c-9e39-2c1c7177877d.png">
+<img width="956" alt="image" src="https://user-images.githubusercontent.com/81138267/181795609-1a4d3a12-35dc-4f5d-9c65-41510cc7135b.png">
+
 
 
 
