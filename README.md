@@ -13,12 +13,17 @@ Project Title: Portfolio
 In today's world having an online resume is very important as you may update it anytime and can share it without any use of paper and in no time 
 
 #Project Description:
+
 I have made a portfolio where with the use of HTML and CSS . As we know today is the era of technology and to apply jobs online we need an resume where we can provide our all the details - personal , skills, experiences and may add link of projects showing our work and we can also update it anytime. This saves a lot of time.
 
 #Primary Azure Technology:
 Static Web App
 
-#WEBSITE LINK--https://gray-tree-018225610.1.azurestaticapps.net/
+#DEMO LINK--
+
+https://gray-tree-018225610.1.azurestaticapps.net/
+
+#Project Images:
 HOME PAGE:
 <img width="959" alt="image" src="https://user-images.githubusercontent.com/81138267/180604303-401127d1-79f0-401b-99ce-3c7d082d741c.png">
 ABOUT PAGE:
@@ -29,6 +34,8 @@ CONTACT PAGE:
 SKILLS:
 <img width="950" alt="image" src="https://user-images.githubusercontent.com/81138267/180604384-dea7301c-f202-4294-8db1-047b72560f0f.png">
 #Azure Services:
+<img width="958" alt="image" src="https://user-images.githubusercontent.com/81138267/181792862-cec09892-c143-418c-9e39-2c1c7177877d.png">
+
 
 
 
