@@ -21,7 +21,7 @@ Static Web App
 
 #DEMO LINK--
 
-https://gray-tree-018225610.1.azurestaticapps.net/
+https://witty-plant-0ca58f710.1.azurestaticapps.net
 
 #Project Images:
 HOME PAGE:
